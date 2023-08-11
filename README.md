@@ -1,2 +1,10 @@
 # Image-Processing
-本项目包含了各种图像处理、图像增强的算法(This project includes various image processing and image enhancement algorithms)
+**其中包括以下图像处理和增强算法（不定时持续更新）：**
+
+1. 直方图均衡（HE）
+2. 对比度限制自适应直方图均衡（CLAHE）
+3. 各种滤波算法（均值滤波、高斯滤波、中值滤波、双边滤波、拉普拉斯滤波器）
+4. 白平衡WB算法（基于灰度世界假设、基于完美世界反射）
+5. 形态学处理（腐蚀、膨胀、开运算、闭运算）
+6. Retinex系列算法（SSR、MSR、MSRCR、MSRCP）
+
